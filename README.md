@@ -4,6 +4,17 @@ A full-stack AI-powered Movie Recommendation System built using **FastAPI**, **S
 
 ---
 
+## 🚀 Live Demo
+
+- 🎬 **Movie Recommender App:**  
+  https://movie-recommender-sheetal.streamlit.app/
+
+- ⚙️ **FastAPI Backend:**  
+  https://movie-rec-api-72y3.onrender.com/
+
+- 📖 **Swagger API Docs:**  
+  https://movie-rec-api-72y3.onrender.com/docs
+
 ## 🚀 Features
 
 - 🔍 Search movies with real-time TMDB integration
@@ -205,16 +216,6 @@ Uvicorn
 
 ---
 
-## 🚀 Live Demo
-
-- 🎬 **Movie Recommender App:**  
-  https://movie-recommender-sheetal.streamlit.app/
-
-- ⚙️ **FastAPI Backend:**  
-  https://movie-rec-api-72y3.onrender.com/
-
-- 📖 **Swagger API Docs:**  
-  https://movie-rec-api-72y3.onrender.com/docs
 
 ## 👩‍💻 Author
 
