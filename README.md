@@ -205,6 +205,17 @@ Uvicorn
 
 ---
 
+## 🚀 Live Demo
+
+- 🎬 **Movie Recommender App:**  
+  https://movie-recommender-sheetal.streamlit.app/
+
+- ⚙️ **FastAPI Backend:**  
+  https://movie-rec-api-72y3.onrender.com/
+
+- 📖 **Swagger API Docs:**  
+  https://movie-rec-api-72y3.onrender.com/docs
+
 ## 👩‍💻 Author
 
 **Sheetal Gupta**
