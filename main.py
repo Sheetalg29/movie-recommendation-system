@@ -35,7 +35,8 @@ def root():
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # for local streamlit
+    allow_origins=[""
+    "https://movie-recommender-sheetal.streamlit.app"],  # for local streamlit
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
