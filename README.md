@@ -15,6 +15,8 @@ A full-stack AI-powered Movie Recommendation System built using **FastAPI**, **S
 - 📖 **Swagger API Docs:**  
   https://movie-rec-api-72y3.onrender.com/docs
 
+**Note**: The backend is hosted on Render's free tier. If the application takes 20–30 seconds to respond on the first request, the    service is waking up. Subsequent requests are fast
+
 ## 🚀 Features
 
 - 🔍 Search movies with real-time TMDB integration
